@@ -2,7 +2,7 @@
   
 <img align="center" src="app-icon.png" height="80" width="80">
 
-<h1 style="font-family:monospace, courier; font-size:3em">&nbsp;TAURI</h2>
+# TAURI
 
 A framework for building tiny, blazing fast binaries for all major desktop platforms.
 
