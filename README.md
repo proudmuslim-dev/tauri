@@ -1,4 +1,10 @@
-<h1 style="font-family:monospace, courier; font-size:3em"><img align="left" src="app-icon.png" height="52" width="52">&nbsp;TAURI</h2>
+<div align="center">
+  
+<img align="center" src="app-icon.png" height="80" width="80">
+
+<h1 style="font-family:monospace, courier; font-size:3em">&nbsp;TAURI</h2>
+
+A framework for building tiny, blazing fast binaries for all major desktop platforms.
 
 [![status](https://img.shields.io/badge/Status-Alpha-yellow.svg)](https://github.com/tauri-apps/tauri/tree/dev)
 [![license](https://img.shields.io/badge/license-MIT%20or%20Apache%202-orange.svg)](https://opencollective.com/tauri)
@@ -9,6 +15,8 @@
 [![devto](https://img.shields.io/badge/documentation-tauri.studio-purple.svg)](https://tauri.studio/docs/getting-started/intro)
 [![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 [![support](https://img.shields.io/badge/sponsor-open%20collective-blue.svg)](https://opencollective.com/tauri)
+
+</div>
 
 ```yml
 Tauri Apps
